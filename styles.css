@@ -1,0 +1,92 @@
+        body {
+            background-color: oldlace;
+        }
+        
+        h1 {
+            font-style: italic;
+        }
+        
+        h2 {
+            font-style: italic;
+            font-size: 22px;
+        }
+        
+        pre {
+            font-family: auto;
+            font-size: 14px;
+        }
+        
+        ul {
+            font-size: 20px;
+            font-style: italic;
+        }
+        
+        p {
+            font-size: 20px;
+            font-style: italic;
+        }
+        
+        .border {
+            border-color: black;
+            border-top-style: double;
+            border-width: 4px;
+            width: 80%;
+        }
+        
+        li {
+            font-size: 20px;
+        }
+        
+        hr {
+            border-color: black;
+            border-style: none;
+            border-top-style: dotted;
+            border-width: 4px;
+            width: 40%;
+        }
+        
+        table {
+            font-size: 20px;
+            font-style: italic;
+            background: lightsalmon;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .Picture {
+            border-radius: 1000px;
+            border-style: solid;
+            margin-left: 600px
+        }
+        
+        form {
+            font-size: 20px;
+        }
+        
+        #name {
+            padding-left: 500px;
+        }
+        
+        #profession {
+            padding-left: 550px;
+            font-size: 25px;
+        }
+        
+        #skills {
+            padding-left: 400px;
+            font-size: 25px;
+        }
+        
+        #address {
+            margin-left: 260px;
+            font-style: italic;
+            font-size: 25px;
+        }
+        
+        #email {
+            color: brown
+        }
+        
+        #linkedin {
+            color: brown
+        }
